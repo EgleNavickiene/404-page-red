@@ -4,7 +4,6 @@ body {
 
 section {
     margin: auto;
-    max-width: 70%;
 }
 
 .centered-text {
@@ -13,14 +12,11 @@ text-align: center;
 
 h1 {
     font-size: xx-large;
+    padding-top: 10%;
 }
 
 #p-under-404 {
     font-size: x-small;
-}
-
-.red{
-    border-radius: 20%;
 }
 
 .button {
@@ -50,8 +46,7 @@ h1 {
 }
 
 .logos-wrapper {
-    max-width:20%;
-    margin: auto
+   margin: auto
 }
 
 .logo {
